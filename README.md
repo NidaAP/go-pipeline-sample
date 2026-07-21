@@ -13,6 +13,8 @@ Use this README to get started with our sample pipeline repository for Go. This 
 The Pipeline will build and run a unit test on a sample go repository, and upload the artifact to Docker Hub. You can use publicly-available code, images, and your GitHub and Docker Hub accounts.
 
 
+
+
 ## Workflow
 - Build the code and run unit tests.
 - Package the app as a Docker image and upload it to Docker Hub.
@@ -29,6 +31,12 @@ Bring Your Own Infrastructure:
 ![alt text](./images/harness_ci_your_infra_overview-b5d71133006969a8fe1129e0c48070cb.png)
 
 ## Licensing
+
+
+
+
+
+##
 
 MIT License
 
